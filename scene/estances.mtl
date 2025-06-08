@@ -1,0 +1,13 @@
+# 
+# Wavefront material file
+# Created in RealityCapture v1.0.3.4658
+# www.capturingreality.com
+# 
+
+newmtl estances
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd estances.jpg
